@@ -1,4 +1,4 @@
-# INFS 3800 Project: Ryan Tran Portfolio
+# INFS 3800 Project: Professional Portfolio
 
 A multi-page portfolio website built with PHP and MySQL. Every page shares one template (header, navigation bar, footer, color theme, and stylesheet). The site has public pages, a login system, and private pages that require a session.
 
