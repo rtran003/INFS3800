@@ -3,7 +3,7 @@
 <section id="experience">
     <h2>Experience</h2>
     <div class="entry">
-        <div class="entry-title">Student Intern</div>
+        <div class="entry-title">Business Analyst Intern</div>
         <div class="entry-subtitle">Crossland Colorado — Jan 2026 to May 2026</div>
         <ul>
             <li>Built a competitive analysis tracker in Excel with pricing comparisons across 3–5 competitors, reducing research synthesis time by ~30%.</li>
@@ -12,7 +12,7 @@
         </ul>
     </div>
     <div class="entry">
-        <div class="entry-title">Student Intern</div>
+        <div class="entry-title">Youth Program Intern</div>
         <div class="entry-subtitle">RISE Southeast — Aug 2025 to Dec 2025</div>
         <ul>
             <li>Designed and produced a 10–20 page Mentorship Guidebook using Microsoft Word and Excel for 10–20 high school students, featuring structured data tables and multi-pathway planning tools.</li>
